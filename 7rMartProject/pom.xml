@@ -27,5 +27,11 @@
     <version>5.2.3</version>
 </dependency>
 
-</dependencies>
+
+  	<dependency>
+  		<groupId>com.obsqura</groupId>
+  		<artifactId>Automation_Course</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
